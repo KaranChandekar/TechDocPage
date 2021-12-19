@@ -111,10 +111,10 @@ li {
   }
   
 header {
-    margin: 15px;
-    text-align: center;
-    font-size: 1.8em;
-    padding: 0;
+  padding: 20px;
+  text-align: center;
+  font-size: 1.8em;
+  background-color: #393B44;
   }
 
   #navbar {
@@ -130,9 +130,11 @@ header {
     padding: 0px 30px;
   }
   #main-doc {
-    margin-left: 30px;
-    margin-right: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
     padding-top: 0;
     color: #4d4e53;
+    width: 100%;
+    min-width: 0px;
   }
 }
